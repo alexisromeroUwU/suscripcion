@@ -1,0 +1,25 @@
+{
+    "status": "success",
+    "items": [{
+            "id": 1,
+            "title": "Suscripcion Gratuita",
+            "price": 0.00,
+            "image": "img/Suscrip1.png",
+            "category": "BEBIDAS CALIENTES"
+        },
+        {
+            "id": 2,
+            "title": "Suscripcion Silver.io",
+            "price": 1200 ,
+            "image": "img/Suscrip2.png",
+            "category": "BEBIDAS CALIENTES"
+        },
+        {
+            "id": 3,
+            "title": "Suscripcion Golden",
+            "price": 3000,
+            "image": "img/Suscrip3.png",
+            "category": "BEBIDAS CALIENTES"
+        }
+    ]
+}
